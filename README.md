@@ -1,4 +1,6 @@
-# FD Ticket Plugin
+# BD FD Ticket Plugin
+
+> Deprecated : This plugin is deprecated in favour of [fd ticket scto plugin](https://github.com/NooraHealth/fd-ticket-scto-plugin), which handles work for both country.
 
 ![](extras/plugin-preview.png)
 
